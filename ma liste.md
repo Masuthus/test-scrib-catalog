@@ -15,9 +15,8 @@ in_menu: true
         <a href="https://joinmastodon.org/">Vers le site</a>
       </div>
     </div>
-  </article>
 
-  <article class="framalibre-notice">
+
     <div>
       <img src="https://beta.framalibre.org/images/logo/Plume.png">
     </div>
@@ -29,9 +28,9 @@ in_menu: true
         <a href="https://github.com/Plume-org/Plume">Vers le site</a>
       </div>
     </div>
-  </article>
 
-  <article class="framalibre-notice">
+
+
     <div>
       <img src="https://beta.framalibre.org/images/logo/PeerTube.png">
     </div>
@@ -42,5 +41,4 @@ in_menu: true
         <a href="https://beta.framalibre.org/notices/peertube.html">Vers la notice Framalibre</a>
         <a href="https://joinpeertube.org/fr/">Vers le site</a>
       </div>
-    </div>
-  </article> 
+    </div> 
