@@ -19,3 +19,18 @@ lister les logiciels libres que je recommande.
     </div>
   </div>
 </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://beta.framalibre.org/images/logo/Mastodon.png">
+    </div>
+    <div>
+      <h2>Mastodon</h2>
+      <p>Un logiciel décentralisé et fédéré de microblogage en 500 caractères.</p>
+      <div>
+        <a href="https://beta.framalibre.org/notices/mastodon.html">Vers la notice Framalibre</a>
+        <a href="https://joinmastodon.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
